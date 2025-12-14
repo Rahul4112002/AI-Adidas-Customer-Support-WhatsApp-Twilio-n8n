@@ -1,4 +1,5 @@
 # 🤖 AI-Powered Adidas Customer Support Agent on WhatsApp
+<img width="2752" height="1536" alt="Gemini_Generated_Image_xrhbdoxrhbdoxrhb" src="https://github.com/user-attachments/assets/c51f8e33-d990-4928-b796-a9af7c58adc1" />
 
 <div align="center">
 
